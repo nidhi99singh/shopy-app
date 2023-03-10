@@ -1,0 +1,27 @@
+.singleProduct_contianer {
+  &__content {
+    border: 2px solid red;
+    position: relative;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    &__breadcrumb {
+      padding: 20px;
+      margin: 20px;
+    }
+    &__product_description {
+      padding: 20px;
+      border: 2px solid;
+      margin: 0 20px;
+      display: grid;
+      grid-template-columns: auto auto;
+    }
+  }
+}
+.h {
+  border: 1px solid;
+  width: 95% !important;
+}

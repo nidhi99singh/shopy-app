@@ -1,0 +1,95 @@
+{
+    "Clothing": [
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F5161335400_1_1_1.jpg&w=1920&q=75",
+            "productImagefront": "https://varkala-react-2.vercel.app/img/product/detail-1-gray.jpg",
+            "productImageback": "https://varkala-react-2.vercel.app/img/product/detail-2-gray.jpg",
+            "productName": "White tee",
+            "category": "tees",
+            "price": "$40.00",
+            "productId": "1",
+            "images": [
+                "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F5161335400_1_1_1.jpg&w=1920&q=75",
+                "https://varkala-react-2.vercel.app/img/product/detail-1-gray.jpg",
+                "https://varkala-react-2.vercel.app/img/product/detail-2-gray.jpg"
+            ]
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F5161335400_1_1_1.jpg&w=1920&q=75",
+            "productName": "College jacket",
+            "category": "clothing",
+            "price": "$40.00",
+            "productId": "2"
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F5161335400_1_1_1.jpg&w=1920&q=75",
+            "productName": "College jacket",
+            "category": "clothing",
+            "price": "$40.00",
+            "productId": "3"
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F0027211800_1_2_1.jpg&w=1920&q=75",
+            "productName": "jeans",
+            "category": "tees",
+            "price": "$40.00",
+            "productId": "4"
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F0144074800_1_1_1.jpg&w=1920&q=75",
+            "productName": "Carrot Fit jeans",
+            "category": "jeans",
+            "price": "$40.00",
+            "productId": "5"
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F5161335400_1_1_1.jpg&w=1920&q=75",
+            "productName": "College jacket",
+            "category": "clothing",
+            "price": "$40.00",
+            "productId": "6"
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F0027211800_1_2_1.jpg&w=1920&q=75",
+            "productName": "jeans",
+            "category": "tees",
+            "price": "$40.00",
+            "productId": "7"
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F0144074800_1_1_1.jpg&w=1920&q=75",
+            "productName": "Carrot Fit jeans",
+            "category": "jeans",
+            "price": "$40.00",
+            "productId": "8"
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F5161335400_1_1_1.jpg&w=1920&q=75",
+            "productName": "College jacket",
+            "category": "clothing",
+            "price": "$40.00",
+            "productId": "9"
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F0027211800_1_2_1.jpg&w=1920&q=75",
+            "productName": "jeans",
+            "category": "tees",
+            "price": "$40.00",
+            "productId": "10"
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F0144074800_1_1_1.jpg&w=1920&q=75",
+            "productName": "Carrot Fit jeans",
+            "category": "jeans",
+            "price": "$40.00",
+            "productId": "11"
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F5161335400_1_1_1.jpg&w=1920&q=75",
+            "productName": "College jacket",
+            "category": "clothing",
+            "price": "$40.00",
+            "productId": "12"
+        }
+    ]
+}

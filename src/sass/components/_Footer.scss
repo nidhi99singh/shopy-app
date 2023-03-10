@@ -1,0 +1,129 @@
+.footer {
+  &__section1 {
+    background-color: #f8f9fa;
+    padding: 30px;
+    &__content {
+      width: 80%;
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+      margin-left: auto;
+      margin-right: auto;
+
+      @media screen and (max-width: 600px) {
+        grid-template-columns: auto;
+      }
+    }
+  }
+  &__section2 {
+    padding: 30px;
+    &__content {
+      width: 80%;
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+      margin-left: auto;
+      margin-right: auto;
+
+      &__contact-card {
+        padding: 20px;
+        max-width: 435px;
+        font-weight: bold;
+        &-title {
+          font-size: 16px;
+          letter-spacing: 1px;
+        }
+        &-subtitle {
+          color: #868e96;
+          font-size: 14px;
+        }
+      }
+      @media screen and (max-width: 600px) {
+        grid-template-columns: auto;
+      }
+    }
+  }
+  &__section3 {
+    display: grid;
+    grid-template-columns: auto auto;
+    color: #868e96;
+    font-size: 14px;
+    &__copyright-section {
+      padding: 0 70px;
+      @media screen and (max-width: 600px) {
+        text-align: center;
+      }
+    }
+    &__others-section {
+      text-align: right;
+      margin-right: 150px;
+      @media screen and (max-width: 600px) {
+        margin: auto;
+      }
+    }
+    @media screen and (max-width: 600px) {
+      grid-template-columns: auto;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    width: 127%;
+  }
+}
+
+.grid {
+  padding: 20px;
+  display: flex;
+
+  &__icon {
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 22px;
+  }
+  &__heading {
+    padding: 10px;
+    line-height: 0.5;
+    font-size: 14px;
+    &__title {
+      font-weight: bold;
+    }
+    &__subtitle {
+      color: #868e96;
+    }
+  }
+}
+.input-field {
+  padding: 10px;
+  border: none;
+  border-bottom: 1px solid #868e96;
+  width: 410px;
+  font-size: 16px;
+  color: #868e96;
+
+  &:focus-visible {
+    outline: none;
+  }
+  @media screen and (max-width: 600px) {
+    width: 330px;
+  }
+}
+.envolope-btn {
+  position: absolute;
+  right: 12px;
+  font-size: 30px;
+  color: #868e96;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.footer-list {
+  list-style: none;
+  margin-left: -37px;
+  line-height: 2;
+  color: #868e96;
+  font-weight: 600;
+}
+.pd {
+  padding: 5px;
+  cursor: pointer;
+  &:hover {
+    border-bottom: 1px solid;
+  }
+}

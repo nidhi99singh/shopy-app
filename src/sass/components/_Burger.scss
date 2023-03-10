@@ -1,0 +1,41 @@
+.burger-menu,
+.burger-button {
+  display: none;
+}
+.active {
+  display: block;
+}
+@media screen and (max-width: 600px) {
+  .burger-button {
+    background-color: transparent;
+    border: none;
+    font-size: 22px;
+    display: block;
+  }
+  .burger-menu {
+
+    left: 0%;
+    top: 73%;
+    position: absolute;
+    border: 1px solid;
+    box-sizing: border-box;
+    width: 495px;
+    z-index: 999;
+    background-color: white;
+    &__content {
+      text-align: center;
+      &__list {
+        list-style: none;
+        padding: 20px;
+
+        &__items {
+          padding: 20px;
+
+          &:hover {
+            border-bottom: 1px solid black;
+          }
+        }
+      }
+    }
+  }
+}

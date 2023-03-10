@@ -1,0 +1,12 @@
+@media screen and (max-width: 600px) {
+  .user-icon,
+  .globe-icon,
+  .navbar {
+    display: none;
+  }
+
+  .search-box {
+    right: 0 !important;
+    top: 90px !important;
+  }
+}

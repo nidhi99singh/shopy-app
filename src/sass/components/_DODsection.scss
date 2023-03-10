@@ -1,0 +1,107 @@
+.dod-section {
+  @media screen and (max-width: 600px) {
+    width: 127%;
+    height: 475px;
+  }
+  &__content {
+    position: relative;
+    margin: 50px 0;
+
+    @media screen and (max-width: 600px) {
+      margin: auto;
+      height: 500px;
+    }
+    &__img-section {
+      &-img {
+        width: 100%;
+        height: 100%;
+        @media screen and (max-width: 600px) {
+          height: 500px;
+        }
+      }
+    }
+    &__offer_section {
+      position: absolute;
+      top: 10%;
+      left: 5%;
+      padding: 20px;
+      @media screen and (max-width: 600px) {
+        left: auto;
+      }
+
+      &-heading {
+        color: #dc3545;
+        letter-spacing: 4px;
+        margin: auto;
+      }
+      &-subheading {
+        font-size: 40px;
+        margin: auto;
+        line-height: 2;
+      }
+      &-price-section {
+        color: #868e96;
+        font-weight: 700;
+        font-size: 16px;
+        margin: auto;
+      }
+      &-offer-badge {
+        background-color: #dc3545;
+        padding: 10px;
+        margin: 20px 0;
+        color: white;
+        width: 200px;
+        width: 51px;
+        font-size: 12px;
+        font-weight: 700;
+        border-radius: 10px;
+      }
+
+      &__countdown-section {
+        background-color: white;
+        padding: 10px 100px;
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+        &__container {
+          display: flex;
+          flex-direction: row;
+
+          div {
+            display: flex;
+            padding: 30px;
+            flex-direction: column;
+            align-items: center;
+
+            h6 {
+              font-size: 24px;
+              margin: auto;
+            }
+            span {
+              font-size: 16px;
+              color: #868e96;
+            }
+          }
+        }
+        &__button {
+          margin: 30px 0;
+          button {
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            background-color: transparent;
+            padding: 10px;
+            font-weight: 700;
+            border: 0.5px solid;
+            &:hover {
+              background-color: black;
+              color: white;
+            }
+          }
+        }
+
+        @media screen and (max-width: 600px) {
+          padding: 0;
+        }
+      }
+    }
+  }
+}
