@@ -1,0 +1,186 @@
+{
+    "Clothing": [
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F5161335400_1_1_1.jpg&w=1920&q=75",
+            "productImagefront": "https://varkala-react-2.vercel.app/img/product/detail-1-gray.jpg",
+            "productImageback": "https://varkala-react-2.vercel.app/img/product/detail-2-gray.jpg",
+            "productName": "White tee",
+            "category": "tees",
+            "price": "$40.00",
+            "productId": "1",
+            "description": {
+                "weight": "100g",
+                "color": "red",
+                "sku Id": "abc0011",
+                "fabric": "cotton"
+            }
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F5161335400_1_1_1.jpg&w=1920&q=75",
+            "productImagefront": "https://varkala-react-2.vercel.app/img/product/detail-1-gray.jpg",
+            "productImageback": "https://varkala-react-2.vercel.app/img/product/detail-2-gray.jpg",
+            "productName": "College jacket",
+            "category": "clothing",
+            "price": "$40.00",
+            "productId": "2", "description": {
+                "weight": "100g",
+                "color": "red",
+                "skuId": "abc0011",
+                "fabric": "cotton"
+            }
+           
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F5161335400_1_1_1.jpg&w=1920&q=75",
+            "productImagefront": "https://varkala-react-2.vercel.app/img/product/detail-1-gray.jpg",
+            "productImageback": "https://varkala-react-2.vercel.app/img/product/detail-2-gray.jpg",
+            "productName": "College jacket",
+            "category": "clothing",
+            "price": "$40.00",
+            "productId": "3",
+            "description": {
+                "weight": "100g",
+                "color": "red",
+                "skuId": "abc0011",
+                "fabric": "cotton"
+            }
+           
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F0027211800_1_2_1.jpg&w=1920&q=75",
+            "productImagefront": "https://varkala-react-2.vercel.app/img/product/detail-1-gray.jpg",
+            "productImageback": "https://varkala-react-2.vercel.app/img/product/detail-2-gray.jpg",
+            "productName": "jeans",
+            "category": "tees",
+            "price": "$40.00",
+            "productId": "4",
+            "description": {
+                "weight": "100g",
+                "color": "red",
+                "skuId": "abc0011",
+                "fabric": "cotton"
+            }
+           
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F0144074800_1_1_1.jpg&w=1920&q=75",
+            "productImagefront": "https://varkala-react-2.vercel.app/img/product/detail-1-gray.jpg",
+            "productImageback": "https://varkala-react-2.vercel.app/img/product/detail-2-gray.jpg",
+            "productName": "Carrot Fit jeans",
+            "category": "jeans",
+            "price": "$40.00",
+            "productId": "5",
+            "description": {
+                "weight": "100g",
+                "color": "red",
+                "skuId": "abc0011",
+                "fabric": "cotton"
+            }
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F5161335400_1_1_1.jpg&w=1920&q=75",
+            "productImagefront": "https://varkala-react-2.vercel.app/img/product/detail-1-gray.jpg",
+            "productImageback": "https://varkala-react-2.vercel.app/img/product/detail-2-gray.jpg",
+            "productName": "College jacket",
+            "category": "clothing",
+            "price": "$40.00",
+            "productId": "6",
+            "description": {
+                "weight": "100g",
+                "color": "red",
+                "skuId": "abc0011",
+                "fabric": "cotton"
+            }
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F0027211800_1_2_1.jpg&w=1920&q=75",
+            "productImagefront": "https://varkala-react-2.vercel.app/img/product/detail-1-gray.jpg",
+            "productImageback": "https://varkala-react-2.vercel.app/img/product/detail-2-gray.jpg",
+            "productName": "jeans",
+            "category": "tees",
+            "price": "$40.00",
+            "productId": "7",
+            "description": {
+                "weight": "100g",
+                "color": "red",
+                "skuId": "abc0011",
+                "fabric": "cotton"
+            }
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F0144074800_1_1_1.jpg&w=1920&q=75",
+            "productImagefront": "https://varkala-react-2.vercel.app/img/product/detail-1-gray.jpg",
+            "productImageback": "https://varkala-react-2.vercel.app/img/product/detail-2-gray.jpg",
+            "productName": "Carrot Fit jeans",
+            "category": "jeans",
+            "price": "$40.00",
+            "productId": "8",
+            "description": {
+                "weight": "100g",
+                "color": "red",
+                "skuId": "abc0011",
+                "fabric": "cotton"
+            }
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F5161335400_1_1_1.jpg&w=1920&q=75",
+            "productImagefront": "https://varkala-react-2.vercel.app/img/product/detail-1-gray.jpg",
+            "productImageback": "https://varkala-react-2.vercel.app/img/product/detail-2-gray.jpg",
+            "productName": "College jacket",
+            "category": "clothing",
+            "price": "$40.00",
+            "productId": "9",
+            "description": {
+                "weight": "100g",
+                "color": "red",
+                "skuId": "abc0011",
+                "fabric": "cotton"
+            }
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F0027211800_1_2_1.jpg&w=1920&q=75",
+            "productImagefront": "https://varkala-react-2.vercel.app/img/product/detail-1-gray.jpg",
+            "productImageback": "https://varkala-react-2.vercel.app/img/product/detail-2-gray.jpg",
+            "productName": "jeans",
+            "category": "tees",
+            "price": "$40.00",
+            "productId": "10",
+            "description": {
+                "weight": "100g",
+                "color": "red",
+                "skuId": "abc0011",
+                "fabric": "cotton"
+            }
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F0144074800_1_1_1.jpg&w=1920&q=75",
+            "productImagefront": "https://varkala-react-2.vercel.app/img/product/detail-1-gray.jpg",
+            "productImageback": "https://varkala-react-2.vercel.app/img/product/detail-2-gray.jpg",
+            "productName": "Carrot Fit jeans",
+            "category": "jeans",
+            "price": "$40.00",
+            "productId": "11",
+             "description": {
+                "weight": "100g",
+                "color": "red",
+                "skuId": "abc0011",
+                "fabric": "cotton"
+            }
+        },
+        {
+            "productImagePath": "https://varkala-react-2.vercel.app/_next/image?url=%2Fimg%2Fproduct%2F5161335400_1_1_1.jpg&w=1920&q=75",
+            "productImagefront": "https://varkala-react-2.vercel.app/img/product/detail-1-gray.jpg",
+            "productImageback": "https://varkala-react-2.vercel.app/img/product/detail-2-gray.jpg",
+            "productName": "College jacket",
+            "category": "clothing",
+            "price": "$40.00",
+            "productId": "12",
+            "description": {
+                "weight": "100g",
+                "color": "red",
+                "skuId": "abc0011",
+                "fabric": "cotton"
+            }
+        }
+    ]
+}
